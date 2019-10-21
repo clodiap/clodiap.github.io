@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jekyll"
+title:  "Jekyll, Vim"
 categories: jekyll 
 ---
 
@@ -33,4 +33,3 @@ Mettre en commentaire avec le plugin vim-commentary :
 `début_de_nom_de_variable_ou_autre + ctrl N` propose l'autocomplétion des variables dans l'app  
 `début_de_nom_de_variable_ou_autre + ctrl X + ctrl N` propose l'autocomplétion des variables **dans le fichier**   
 `début_de_chemin_de_fichier + ctrl X + ctrl F` propose l'autocomplétion pour les noms de fichiers dans l'app
-
