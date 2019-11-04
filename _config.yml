@@ -21,7 +21,8 @@
 title: What did I learn today?
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  Qu'est-ce j'ai appris aujourd'hui ?
+  Qu'est-ce j'ai appris aujourd'hui ? 
+  Mon apprentissage en développement web : Ruby, Ruby-on-Rails, Javascript, React, …
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: clodiap1
