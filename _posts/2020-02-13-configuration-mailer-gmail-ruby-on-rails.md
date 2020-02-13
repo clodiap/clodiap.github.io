@@ -9,7 +9,7 @@ categories: ruby-on-rails
 Pour envoyer des emails depuis une app Rails, on peut utiliser une adresse gmail. Pour ce faire il nous faudra configurer notre compte gmail pour l'autoriser à envoyer des emails sans captcha à partir de notre app.
 
 Cliquer sur ces 2 liens (en se connectant avec le compte utilisé dans l'app Rails) :
-* [Déverouiller le captcha](http://www.google.com/accounts/DisplayUnlockCaptcha)
+* [Déverouiller le captcha](http://www.google.com/accounts/DisplayUnlockCaptcha) (à faire juste avant de tester l'envoi d'email avec l'app)
 * [Donner l'accès aux apps moins sécurisées](https://www.google.com/settings/u/0/security/lesssecureapps)
 
 ## Configurer l'app Ruby on Rails
