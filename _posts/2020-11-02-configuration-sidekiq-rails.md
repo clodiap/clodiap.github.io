@@ -5,7 +5,7 @@ categories: ruby-on-rails
 ---
 
 
-ActiveJob nous permet d'éxécuter des taches (appels à une API, envoi d'email) en arrière-plan. Pour l'utiliser nous avons besoin d'un autre outil qui va nous permettre de stocker ses tâches dans une file d'attente ('queue' en anglais), j'ai choisi Sidekiq, mais il en existe d'autres tels que Resque.
+ActiveJob nous permet d'éxécuter des tâches (appels à une API, envoi d'email) en arrière-plan. Pour l'utiliser nous avons besoin d'un autre outil qui va nous permettre de stocker ses tâches dans une file d'attente ('queue' en anglais), j'ai choisi Sidekiq, mais il en existe d'autres tels que Resque.
 
 Et pour faire tourner Sidekiq nous aurons aussi besoin d'un serveur Redis.
 
